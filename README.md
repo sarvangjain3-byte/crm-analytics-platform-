@@ -58,6 +58,4 @@ A modern CRM and Business Analytics platform built using **React**, **Firebase**
 
 Melbourne, Australia
 
-LinkedIn: *(Add your LinkedIn later)*
-
 GitHub: https://github.com/sarvangjain3-byte
